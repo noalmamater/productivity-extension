@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Produtividade Analista",
+    "version": "1.0",
+    "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+    },
+    "description": "Extensão de produtividade para analistas",
+    "action": {
+      "default_popup": "popup/popup.html"
+    },
+    "permissions": ["storage"]
+  }
+  
